@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login And Validation Test Case.</description>
+   <name>Orange HRM Login Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6857678-643a-435a-ac78-ad2abaebb486</testCaseGuid>
+</TestCaseEntity>

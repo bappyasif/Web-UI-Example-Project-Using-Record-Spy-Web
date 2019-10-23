@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Life Charger Site Test Suite,Chrome 77.0.3865.120,Life Charger Site Browsing Test Suite Where Test Case is Script Mode.,,2019-10-22 21:42:43,2019-10-22 21:43:10,27.043s,INCOMPLETE
+,,,,,,,
+Test Cases/Script Mode/Life Charger Site Test Case,Chrome 77.0.3865.120,Using Script Mode For Life Charger Site Browsing Test Case.,,2019-10-22 21:42:44,2019-10-22 21:43:10,26.742s,PASSED
+"openBrowser(""http://lifecharger.org"")",Chrome 77.0.3865.120,,,2019-10-22 21:42:44,2019-10-22 21:43:03,19.280s,PASSED
+"click(findTestObject(""Object Repository/LifeCharger/Page_Life Charger   a new beginning/a_You will definitely reach your goal""))",Chrome 77.0.3865.120,,,2019-10-22 21:43:03,2019-10-22 21:43:07,3.591s,PASSED
+"setText(findTestObject(""Object Repository/LifeCharger/Page_Life Charger   a new beginning/input_Search for_s""), ""Goal"")",Chrome 77.0.3865.120,,,2019-10-22 21:43:07,2019-10-22 21:43:07,0.183s,PASSED
+"click(findTestObject(""Object Repository/LifeCharger/Page_Life Charger   a new beginning/span_Search for_fa fa-search""))",Chrome 77.0.3865.120,,,2019-10-22 21:43:07,2019-10-22 21:43:10,2.525s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/LifeCharger/Page_Life Charger   a new beginning/a_Home""), 4)",Chrome 77.0.3865.120,,,2019-10-22 21:43:10,2019-10-22 21:43:10,0.099s,PASSED
+closeBrowser(),Chrome 77.0.3865.120,,,2019-10-22 21:43:10,2019-10-22 21:43:10,0.721s,PASSED
